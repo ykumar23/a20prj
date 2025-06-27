@@ -1,1 +1,10 @@
 /* Add application styles & imports to this file! */
+
+body {
+    background: lightgray;
+}
+
+h1 {
+    font-family: Helvetica;
+    text-align: center;
+}
